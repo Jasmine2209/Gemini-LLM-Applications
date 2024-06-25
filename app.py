@@ -10,7 +10,7 @@ genai.configure(api_key= os.getenv("GOOGLE_API_KEY"))
 
 ## function to load Gemini pro model and get reponses
 
-model = genai.GenerclearativeModel("gemini-pro")
+model = genai.GenerativeModel("gemini-pro")
 
 def get_gemini_response(question):
     response = model.generate_content(question)
