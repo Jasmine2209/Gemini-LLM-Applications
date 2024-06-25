@@ -24,7 +24,7 @@ st.header("ChatWizard - A Gemini LLM Powered Application")
 input = st.text_input("Input: ",key="input")
 submit = st.button("Ask the question")
 
-##When submit is clicked
+## When submit is clicked
 if submit:
     response = get_gemini_response(input)
     st.subheader("The Response is: ")
