@@ -28,16 +28,15 @@ st.markdown("""
             display: flex;
             justify-content: flex-end;
             align-items: center;
-            position: fixed;
-            top: 40px; /* Adjusted top margin */
-            right: 345px; /* Adjust this value to ensure the button is fully visible */
+            top: 10px; /* Adjusted top margin */
+            right: 80px; /* Adjust this value to ensure the button is fully visible */
             margin: 16px;
             z-index: 9999;
         }
         .top-right-button-container p {
             margin-right: 10px;
             font-size: 16px;
-            padding-top: 20px; /* Adjust this value to move the text down */
+            padding-top: 5px; /* Adjust this value to move the text down */
         }
         .top-right-button-container a button {
             background-color: #4CAF50;
