@@ -1,9 +1,9 @@
 from dotenv import load_dotenv # type: ignore
 load_dotenv() #loading all the env vars
 
-import streamlit as st  # type: ignore
+import streamlit as st   # type: ignore
 import os
-import google.generativeai as genai # type: ignore
+import google.generativeai as genai  # type: ignore
 
 # Configure the Generative AI with the API key
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
