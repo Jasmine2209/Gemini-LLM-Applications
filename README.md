@@ -1,6 +1,6 @@
 # Gemini-LLM-Appication
 ## Overview
-This project is designed to demonstrate the capabilities of the Gemini-LLM-pro and Gemini-LLM-Pro-vision models.
+This project is designed to demonstrate the capabilities of the Gemini-LLM-pro and Gemini-LLM-1.5-flash models.
 
 ## Features
 - **Text Generation**: Generate coherent text.
