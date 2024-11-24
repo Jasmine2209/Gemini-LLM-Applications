@@ -54,7 +54,7 @@ st.markdown("""
     </style>
     <div class="top-right-button-container">
         <p>Want to upload an image and ask questions?</p>
-        <a href="https://gemini-llm-applications-3cpbwhvhkawet79wdezhhm.streamlit.app/" target="_blank">
+        <a href="https://gemini-llm-applications-bbkvcesmqurp5cb2u3huut.streamlit.app/" target="_blank">
             <button>Go to ChatImage</button>
         </a>
     </div>
